@@ -732,6 +732,8 @@ body {
   webkit-tap-highlight-color: #5ab3e8; }
 
 .list {
+  padding-left: 20px;
+  padding-right: 20px;
   font-family: 'Russo One';
   font-weight: 700;
   font-size: 22px;
