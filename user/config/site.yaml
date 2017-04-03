@@ -1,0 +1,57 @@
+title: 'NEM.io Foundation'
+default_lang: en
+author:
+  name: 'Lon Wong'
+  email: saulgrayer@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'NEM.io Foundation is focused on bringing NEM to the mainstream'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+email: your-email@domain.com
+description: 'Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.'
+links:
+  -
+    title: Purpose
+    url: '#services'
+  -
+    title: About
+    url: '#about'
+  -
+    title: Goals
+    url: '#goals'
+  -
+    title: Team
+    url: '#team'
+  -
+    title: Contact
+    url: '#contact'
+social:
+  -
+    title: twitter
+    url: 'https://twitter.com/NEMofficial'
+  -
+    title: facebook
+    url: 'https://www.facebook.com/ourNEM/'
+  -
+    title: reddit
+    url: 'https://www.reddit.com/r/nem'
+  -
+    title: github
+    url: 'https://github.com/NemProject'
+address:
+  -
+    line: ''
+  -
+    line: ''
+quicklinks:
+  -
+    title: ''
+    url: ''
