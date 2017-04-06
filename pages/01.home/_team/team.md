@@ -44,12 +44,12 @@ people:
                 url: '#'
     -
         name: 'Niko Maenpaa'
-        pic: suit.jpg
+        pic: niko.jpg
         position: 'Council Member'
         social:
             -
-                title: twitter
-                url: '#'
+                title: linkedin
+                url: 'https://www.linkedin.com/in/niko-m%C3%A4enp%C3%A4%C3%A4-287289110/'
     -
         name: 'Nelson Valero'
         pic: nelz.jpg
@@ -60,11 +60,11 @@ people:
                 url: 'https://www.facebook.com/envol0007'
     -
         name: 'Albert Castellana Lluis'
-        pic: suit.jpg
+        pic: albert.jpg
         position: 'Council Member'
         social:
             -
-                title: twitter
+                title: null
                 url: '#'
     -
         name: 'Jimmy Batifol-Oliverio'
