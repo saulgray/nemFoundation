@@ -74,6 +74,14 @@ people:
             -
                 title: twitter
                 url: '#'
+    -
+        name: 'Test Guy'
+        pic: suit.jpg
+        position: 'Council Member'
+        social:
+            -
+                title: twitter
+                url: '#'
 description: .
 ---
 
