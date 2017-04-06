@@ -20,6 +20,6 @@ abouts:
 ---
 
 ## About NEM.io Foundation
----
+--- ---
 
 
