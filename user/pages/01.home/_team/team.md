@@ -75,7 +75,7 @@ people:
                 title: twitter
                 url: '#'
     -
-        name: 'Test Suit 2'
+        name: 'Test Suit 3'
         pic: suit.jpg
         position: 'Council Member'
         social:
