@@ -7,7 +7,7 @@ visible: true
 # Goals of the Foundation
 ---
 
-* font size="4" face="verdana" color="white">Reaching out to decision-makers and thought-leaders in each category, globally.</font> 
+* <font size="4" face="verdana" color="white">Reaching out to decision-makers and thought-leaders in each category, globally.</font> 
 * <font size="4" face="verdana" color="white"> Managing a core development team to keep NEM technology focused on the needs of all these users.</font>
 * <font size="4" face="verdana" color="white"> Partnering with businesses and organizations to create off-the-shelf applications that other businesses can use immediately.</font>
 * <font size="4" face="verdana" color="white"> Building a grassroots community of evangelists and adopters.</font>
