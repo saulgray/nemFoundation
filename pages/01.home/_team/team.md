@@ -21,6 +21,9 @@ people:
             -
                 title: twitter
                 url: 'https://twitter.com/thejabo38'
+            -
+                title: facebook
+                url: 'https://www.facebook.com/jeff.t.mcdonald'
     -
         name: 'Ronel Li'
         pic: ronel.jpg
