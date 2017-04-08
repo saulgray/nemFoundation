@@ -18,6 +18,9 @@ people:
             -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/jeffmcdonald/'
+            -
+                title: facebook
+                url: 'https://www.facebook.com/envol0007'
     -
         name: 'Ronel Li'
         pic: ronel.jpg
