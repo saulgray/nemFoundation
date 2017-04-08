@@ -16,8 +16,8 @@ people:
         position: 'Vice President'
         social:
             -
-                title: twitter
-                url: 'https://twitter.com/thejabo38'
+                title: linkedin
+                url: 'https://www.linkedin.com/in/jeffmcdonald/'
     -
         name: 'Ronel Li'
         pic: ronel.jpg
