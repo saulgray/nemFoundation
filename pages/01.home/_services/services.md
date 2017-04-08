@@ -14,7 +14,7 @@ services:
     -
         header: 'NEM Technology in Academia'
         icon: university
-        text: 'NEM has great potential to change the way universities and academic researchers manage data and exchange knowledge. Having shared databases of research with unalterable histories can strengthen the integrity and accessibility of information in a worldwide network. Our mission is to help institutions of learning and discovery understand,adopt, and propagate the technology.'
+        text: 'NEM has great potential to change the way universities and academic researchers manage data and exchange knowledge. Having shared databases of research with unalterable histories can strengthen the integrity and accessibility of information in a worldwide network. Our mission is to help institutions of learning and discovery understand, adopt, and propagate the technology.'
 ---
 
 ## Purpose of The NEM.io Foundation
