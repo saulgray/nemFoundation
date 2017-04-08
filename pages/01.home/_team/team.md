@@ -30,8 +30,8 @@ people:
         position: Secretary
         social:
             -
-                title: null
-                url: '#'
+                title: linkedin
+                url: 'https://www.linkedin.com/in/ronelli'
     -
         name: 'Ken Chan'
         pic: 'Ken Chan.jpg'
