@@ -62,14 +62,14 @@ people:
         position: 'Council Member'
         social:
             -
-                title: facebook
-                url: 'https://www.facebook.com/envol0007'
-            -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/nelz-valero-13a912123/'
             -
                 title: twitter
                 url: 'https://twitter.com/NEMOfficial'
+            -
+                title: facebook
+                url: 'https://www.facebook.com/envol0007'
     -
         name: 'Albert Castellana Lluis'
         pic: albert.jpg
