@@ -66,7 +66,7 @@ people:
                 url: 'https://www.linkedin.com/in/nelz-valero-13a912123/'
             -
                 title: twitter
-                url: 'https://twitter.com/NEMOfficial'
+                url: 'https://twitter.com/orelavlenz'
             -
                 title: facebook
                 url: 'https://www.facebook.com/envol0007'
