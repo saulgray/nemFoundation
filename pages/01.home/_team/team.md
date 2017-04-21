@@ -67,6 +67,9 @@ people:
             -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/nelz-valero-13a912123/'
+            -
+                title: twitter
+                url: 'https://twitter.com/NEMOfficial'
     -
         name: 'Albert Castellana Lluis'
         pic: albert.jpg
