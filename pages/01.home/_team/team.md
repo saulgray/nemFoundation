@@ -80,7 +80,7 @@ people:
                 url: 'https://www.linkedin.com/in/acastellana/'
     -
         name: 'Takao Asayama'
-        pic: suit.jpg
+        pic: TakaoAsayama.jpg
         position: 'Council Member'
         social:
             -
