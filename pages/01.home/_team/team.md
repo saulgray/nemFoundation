@@ -94,7 +94,6 @@ people:
             -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/username/'
-    - null
 description: .
 ---
 
