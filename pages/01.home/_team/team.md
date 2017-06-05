@@ -85,7 +85,13 @@ people:
         social:
             -
                 title: linkedin
-                url: 'https://www.linkedin.com/in/username/'
+                url: 'https://www.linkedin.com/in/takaoasayama/'
+            -
+                title: twitter
+                url: 'http://twitter.com/takaoasayama'
+            -
+                title: facebook
+                url: 'http://fb.com/takaoasayama'
     -
         name: 'Stephen Chia'
         pic: suit.jpg
