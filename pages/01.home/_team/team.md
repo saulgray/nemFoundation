@@ -78,6 +78,23 @@ people:
             -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/acastellana/'
+    -
+        name: 'Takao Asayama'
+        pic: suit.jpg
+        position: 'Council Member'
+        social:
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/username/'
+    -
+        name: 'Stephen Chia'
+        pic: suit.jpg
+        position: 'Council Member'
+        social:
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/username/'
+    - null
 description: .
 ---
 
