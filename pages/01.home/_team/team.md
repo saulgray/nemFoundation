@@ -94,7 +94,7 @@ people:
                 url: 'http://fb.com/takaoasayama'
     -
         name: 'Stephen Chia'
-        pic: Stephen1.jpg
+        pic: Stephen2.jpg
         position: 'Council Member'
         social:
             -
