@@ -102,7 +102,7 @@ people:
         social:
             -
                 title: linkedin
-                url: 'https://www.linkedin.com/in/username/'
+                url: 'https://www.linkedin.com/in/schia/'
     -
         name: Clayton
         pic: clayton.jpg
