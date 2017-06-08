@@ -38,8 +38,8 @@ people:
         position: Treasurer
         social:
             -
-                title: null
-                url: '#'
+                title: linkedin
+                url: 'http://linkedin.com/in/ken-leng-chan-a7838522'
     -
         name: 'Kristof Van de Reck'
         pic: kristof.jpg
