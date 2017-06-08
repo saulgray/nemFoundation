@@ -102,7 +102,7 @@ people:
                 url: 'https://www.linkedin.com/in/username/'
     -
         name: Clayton
-        pic: suit.jpg
+        pic: clayton.jpg
         position: 'Council Member'
         social:
             -
