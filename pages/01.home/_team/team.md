@@ -48,6 +48,9 @@ people:
             -
                 title: linkedin
                 url: www.linkedin.com/in/kristof-van-de-reck
+            -
+                title: twitter
+                url: 'https://twitter.com/kvandereck'
     -
         name: 'Niko Maenpaa'
         pic: niko.jpg
