@@ -47,7 +47,7 @@ people:
         social:
             -
                 title: linkedin
-                url: www.linkedin.com/in/kristof-van-de-reck
+                url: 'https://www.linkedin.com/in/kristof-van-de-reck'
             -
                 title: twitter
                 url: 'https://twitter.com/kvandereck'
