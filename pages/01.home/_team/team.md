@@ -107,7 +107,7 @@ people:
         social:
             -
                 title: linkedin
-                url: 'https://www.linkedin.com/in/username/'
+                url: 'https://www.linkedin.com/in/clayton-bittle/'
 description: .
 ---
 
