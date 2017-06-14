@@ -16,41 +16,32 @@ people:
         position: 'Vice President'
         social:
             -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/jeffmcdonald/'
-            -
                 title: twitter
                 url: 'https://twitter.com/thejabo38'
-            -
-                title: facebook
-                url: 'https://www.facebook.com/jeff.t.mcdonald'
     -
         name: 'Ronel Li'
-        pic: ronel.jpg
+        pic: suit.jpg
         position: Secretary
         social:
             -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/ronelli'
+                title: twitter
+                url: '#'
     -
         name: 'Ken Chan'
-        pic: 'Ken Chan.jpg'
+        pic: suit.jpg
         position: Treasurer
         social:
             -
-                title: linkedin
-                url: 'http://linkedin.com/in/ken-leng-chan-a7838522'
+                title: twitter
+                url: '#'
     -
         name: 'Kristof Van de Reck'
-        pic: kristof.jpg
+        pic: suit.jpg
         position: 'Council Member'
         social:
             -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/kristof-van-de-reck'
-            -
                 title: twitter
-                url: 'https://twitter.com/kvandereck'
+                url: '#'
     -
         name: 'Niko Maenpaa'
         pic: niko.jpg
@@ -65,12 +56,6 @@ people:
         position: 'Council Member'
         social:
             -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/nelz-valero-13a912123/'
-            -
-                title: twitter
-                url: 'https://twitter.com/orelavlenz'
-            -
                 title: facebook
                 url: 'https://www.facebook.com/envol0007'
     -
@@ -79,38 +64,24 @@ people:
         position: 'Council Member'
         social:
             -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/acastellana/'
+                title: null
+                url: '#'
     -
-        name: 'Takao Asayama'
-        pic: TakaoAsayama.jpg
+        name: 'Jimmy Batifol-Oliverio'
+        pic: suit.jpg
         position: 'Council Member'
         social:
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/takaoasayama/'
             -
                 title: twitter
-                url: 'http://twitter.com/takaoasayama'
-            -
-                title: facebook
-                url: 'http://fb.com/takaoasayama'
+                url: '#'
     -
-        name: 'Stephen Chia'
-        pic: Stephen2.jpg
+        name: 'Test Suit 3'
+        pic: suit.jpg
         position: 'Council Member'
         social:
             -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/schia/'
-    -
-        name: Clayton
-        pic: clayton.jpg
-        position: 'Council Member'
-        social:
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/clayton-bittle/'
+                title: twitter
+                url: '#'
 description: .
 ---
 

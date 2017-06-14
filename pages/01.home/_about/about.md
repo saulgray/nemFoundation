@@ -10,7 +10,7 @@ abouts:
     -
         img: logomark.png
         heading: 'About NEM'
-        body: 'The NEM network represents a new generation of blockchain software. Although it is often grouped with cryptocurrency networks, NEM was built with 100% original code on a ‘blue ocean’ approach, meaning it is a platform in which anyone can manage any data and build applications to suit their specific needs - getting more people outside the crypto currency domain to embrace its technology. It is designed to merge all the strengths of a blockchain and distributed ledger technology with infinitely expandable functionalities, and it currently does so better than any other network.'
+        body: 'The NEM network represents a new generation of blockchain software. Although it is often grouped with cryptocurrency networks, NEM was built with 100% original code on a ‘blue ocean’ approach, meaning it is a platform in which anyone can manage any data and build applications to suit their specific needs. It is designed to merge all the strengths of a blockchain and distributed ledger technology with infinitely expandable functionalities, and it currently does so better than any other network.'
         align: inverted
     -
         img: pic6.jpg
@@ -20,6 +20,6 @@ abouts:
 ---
 
 ## About NEM.io Foundation
----
+--- ---
 
 
