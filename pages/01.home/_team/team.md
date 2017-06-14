@@ -104,7 +104,7 @@ people:
                 title: linkedin
                 url: 'https://www.linkedin.com/in/schia/'
     -
-        name: 'Clayton Bittle'
+        name: Clayton
         pic: clayton.jpg
         position: 'Council Member'
         social:
