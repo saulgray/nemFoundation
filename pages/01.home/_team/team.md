@@ -41,14 +41,6 @@ people:
                 title: linkedin
                 url: 'http://linkedin.com/in/ken-leng-chan-a7838522'
     -
-        name: 'Erik Van'
-        pic: erik.jpg
-        position: 'Founding Member'
-        social:
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/erikvanhimbergen/'
-    -
         name: 'Kristof Van de Reck'
         pic: kristof.jpg
         position: 'Council Member'
