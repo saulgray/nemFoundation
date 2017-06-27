@@ -41,7 +41,7 @@ people:
                 title: linkedin
                 url: 'http://linkedin.com/in/ken-leng-chan-a7838522'
     -
-        name: 'Erik Van Himbergen'
+        name: 'Erik Van'
         pic: erik.jpg
         position: 'Founding Member'
         social:
