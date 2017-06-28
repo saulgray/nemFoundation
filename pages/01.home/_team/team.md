@@ -111,14 +111,6 @@ people:
             -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/clayton-bittle/'
-    -
-        name: 'Erik Van Himbergen'
-        pic: erik.jpg
-        position: 'Founding Member'
-        social:
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/erikvanhimbergen/'
 description: .
 ---
 
