@@ -104,18 +104,33 @@ people:
                 title: linkedin
                 url: 'https://www.linkedin.com/in/schia/'
     -
-        name: Clayton
+        name: Clayton Bittle
         pic: clayton.jpg
         position: 'Council Member'
         social:
             -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/clayton-bittle/'
-description: .
+
+foundersHeader: 'Founding Members'
+
+foundersDescription: 'NEM.io Foundation Founding Members'
+
+founders:
+    -
+        name: 'Erik Van Himbergen'
+        pic: suit.jpg
+        position: 'Founding Member'
+        social:
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/erikvanhimbergen/'
+
 ---
 
 ## NEM.io Foundation
-
-Our officers have a broad background of financial services and technology development experience. 
+<br>
+#### Officers
+Our officers have a broad background of financial services and technology development experience.
 
 ---
