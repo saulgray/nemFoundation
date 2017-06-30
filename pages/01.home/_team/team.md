@@ -62,7 +62,7 @@ people:
     -
         name: 'Nelson Valero'
         pic: nelz.jpg
-        position: 'Council Member and Chief Operating Officer'
+        position: 'Council Member'
         social:
             -
                 title: linkedin
