@@ -8,7 +8,7 @@ services:
         icon: medkit
         text: 'Technology, financial, insurance, manufacturing, healthcare, transportation, services, mining, and many other industries can benefit from NEM’s ability to seamlessly manage and exchange data of any kind. The Foundation is dedicated to working with industry associations and companies to promote industry data management solutions.'
     -
-        header: 'NEM Technology in Goverment'
+        header: 'NEM Technology in Government'
         icon: legal
         text: 'NEM Technology, more than any other distributed leger software, has the ability to streamline and reduce costs of record keeping, document filing, and government data management in a completely tamper-proof and always-accessible way. The NEM.io Foundation is committed to working with government organizations worldwide, educating them to learn about how NEM can create better outcomes.'
     -
