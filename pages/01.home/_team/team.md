@@ -10,6 +10,9 @@ people:
             -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/lonwong1'
+            -
+                title: twitter
+                url: 'https://twitter.com/2017Lon'
     -
         name: 'Jeff McDonald'
         pic: jeff.jpg
