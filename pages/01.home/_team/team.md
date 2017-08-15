@@ -13,6 +13,9 @@ people:
             -
                 title: twitter
                 url: 'https://twitter.com/2017Lon'
+            -
+                title: facebook
+                url: 'https://www.facebook.com/2017lon/'
     -
         name: 'Jeff McDonald'
         pic: jeff.jpg
